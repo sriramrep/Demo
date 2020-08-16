@@ -2,3 +2,4 @@
 2) Messages
 3) New Chat
 4) Status
+5) Call
