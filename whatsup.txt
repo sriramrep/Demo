@@ -1,0 +1,4 @@
+1) Open whatsup
+2) Messages
+3) New Chat
+4) Status
