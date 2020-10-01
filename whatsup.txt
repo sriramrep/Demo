@@ -3,3 +3,5 @@
 3) New Chat
 4) Status
 5) Call
+
+New text added on oct1
