@@ -3,5 +3,12 @@
 3) New Chat
 4) Status
 5) Call
+<<<<<<< HEAD
 
 New text added on oct1
+=======
+6) mani
+7) sri
+8) praba
+
+>>>>>>> 460913c7b9426d2d6917a237d4239ff7cb9a7234
